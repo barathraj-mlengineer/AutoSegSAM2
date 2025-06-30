@@ -2,7 +2,7 @@ streamlit
 opencv-python
 pillow
 numpy
-mediapipe==0.10.0
+mediapipe==0.10.14
 replicate
 python-dotenv
 protobuf==3.20.3
