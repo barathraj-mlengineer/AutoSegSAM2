@@ -1,8 +1,8 @@
-streamlit
-opencv-python
-pillow
-numpy
+streamlit==1.46.0
+opencv-python==4.11.0.86
+pillow==11.2.0
+numpy==2.2.0
 mediapipe==0.10.14
-replicate
-python-dotenv
-protobuf==3.20.3
+protobuf>=4.25.3,<5
+replicate==1.0.7
+python-dotenv==1.1.1
